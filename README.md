@@ -8,7 +8,6 @@ pip3 install selenium
 pip3 install ddddocr
 ```
 
-并且安装对应的webdriver版本
-
-[查看自己的Chrome版本](chrome://version)
-[Chrome版本可于此处下载](https://chromedriver.chromium.org/downloads)
+在地址栏输入 chrome://version 可查看自己的浏览器版本
+[在此处找到对应版本的webdriver并下载](https://chromedriver.chromium.org/downloads)
+与主程序放在同一目录下
